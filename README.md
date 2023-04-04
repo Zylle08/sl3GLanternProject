@@ -1,5 +1,5 @@
 # sl3GLanternProject
-LBYEC4A - EK2 Final Project
+LBYEC4A EK2 (Term Project)
 
 Team Members: 
 
