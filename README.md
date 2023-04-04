@@ -15,6 +15,13 @@ The main target of this project is to implement text detection with an audio out
 </p>
 
 FEATURES
+- Enables the user to select own images for analysis
+- Automatically removes the background via the use of im2gray and imbinarize
+- Uses the CRAFT algorithm to detect text regions
+- Visualizes the detected text using boxes
+- OCR decodes the text given; this can be further trained by the user to reach peak accuracy
+- Dictates and presents the decoded text
+- Shows the original image and the actual text detected
 
 
 Project Presentation:
